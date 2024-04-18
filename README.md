@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinicius Carvalho</h1>
 <h3 align="center">A passionate fullstack developer from Brasil</h3>
 
-- 🔭 I’m currently working on **my portifolio**
+- 🔭 I’m currently working on **my portifolio** and Full Stack Web Developer
 
 - 🌱 I’m currently learning **SCSS, TypeScript, JavaScript**
 
@@ -9,13 +9,13 @@
 
 - 📫 How to reach me **dev.vfcarvalho@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/engviniciusferreira/](https://www.linkedin.com/in/engviniciusferreira/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/vinicius-carvalho-dev/](https://www.linkedin.com/in/vinicius-carvalho-dev/)
 
 - My webpage https://viniferreiradev.github.io/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/engviniciusferreira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="engviniciusferreira" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vinicius-carvalho-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dev_Vinicius_Carvalho-dev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
